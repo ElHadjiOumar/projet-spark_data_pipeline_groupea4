@@ -2,5 +2,8 @@ flows:
   876ff22d-8c0c-4855-b633-90701e1ec328: {ver: 1, file: Flow1_niveau_vie.snapshot,
     comments: First commit code nifi niveau vie, author: anonymous, created: 1672420872148,
     flowName: Flow1 niveau vie, flowDesc: description niveau vie}
+  07741d33-a8a1-48ed-acc5-873000a4e8fb: {ver: 1, file: Flow_Election_22.snapshot,
+    comments: First commit Election 22, author: anonymous, created: 1672420928245,
+    flowName: Flow Election 22, flowDesc: Flow Description Election 22}
 layoutVer: 1
 bucketId: 0a22b317-884b-46fd-b39b-921edb71abcb
